@@ -1,0 +1,1 @@
+Success: https://cloud.iexapis.com/stable/stock/aapl/news/last/1?token=pk_3680a8a7de304b4cb48822f9ff778711, 20/01/19 18:19:20
